@@ -40,7 +40,7 @@ src/
    ```
 3. Create a `.env` file in the root directory:
    ```env
-   PORT=5000
+   PORT=3000
    MONGO_URI=mongodb://localhost:27017/flexlife_fitness
    JWT_SECRET=your_jwt_secret
    ```
