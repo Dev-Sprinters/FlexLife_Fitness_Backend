@@ -53,7 +53,7 @@ src/
 
 ## API Documentation
 
-Interactive API docs are available at: [http://localhost:5000/api-docs](http://localhost:5000/api-docs)
+Interactive API docs are available at: [http://localhost:3000/api-docs](http://localhost:5000/api-docs)
 
 ### Main Endpoints
 
