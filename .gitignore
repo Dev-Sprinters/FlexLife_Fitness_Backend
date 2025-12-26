@@ -1,6 +1,8 @@
 # Node.js
 node_modules/
 
+seed.js
+
 # Logs
 logs
 *.log
